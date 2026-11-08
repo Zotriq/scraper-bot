@@ -1,7 +1,7 @@
 [project]
 name = "rag-scraper-bot"
 version = "0.1.0"
-description = "Add your description here"
+description = "Parallel web scraper that collects pages and documents for RAG pipelines"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
